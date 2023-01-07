@@ -19,7 +19,7 @@ const SettingsBackground = styled.ImageBackground.attrs({
   height: 100%;
   width: 100%;
 `;
-
+//22
 const SettingsItem = styled(List.Item)`
   padding: ${(props) => props.theme.space[3]};
   background-color: rgba(255, 255, 255, 0.4);
